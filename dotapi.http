@@ -1,0 +1,6 @@
+@dotapi_HostAddress = http://localhost:5088
+
+GET {{dotapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

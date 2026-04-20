@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ZVnsJduTt4=",
+  "success": true,
+  "projectFilePath": "D:\\workspace-k8s\\dotproject\\dotapi\\dotapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wujw2\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.6\\microsoft.aspnetcore.openapi.10.0.6.nupkg.sha512",
+    "C:\\Users\\wujw2\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
